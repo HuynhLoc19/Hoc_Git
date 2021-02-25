@@ -7,3 +7,5 @@ def SUM(n):
 
 n = int(input('Nhập n: '))
 print('Tổng dãy số [1:{}]: '.format(n), SUM(n))
+
+pritn('Có làm thì mới có ăn...')
